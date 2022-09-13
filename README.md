@@ -14,7 +14,3 @@ Then, click on “Find Harmonies” and you’ll find different harmonizations. 
 
 <img src="https://user-images.githubusercontent.com/23222254/182688883-9fa5facf-7140-473c-8d44-66fc310c54de.png" width="250" height="500" />
 
-# Privacy Police (for playstore)
-
-The app needs permission to write in your internal storage to save generated melodies and progressions, however the data is not sent anywhere.
-
